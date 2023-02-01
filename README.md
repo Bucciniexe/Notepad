@@ -2,6 +2,7 @@
 ![02](https://user-images.githubusercontent.com/123178455/215181799-6fe76cb5-2ed6-43b6-9725-324d3cd24014.jpeg)
 
 Customizable, Responsive Notepad
+* Simple notepad, notes can be saved and you can customize it
 * HTML, CSS and JavaScript 
 * You can change the icon, font, cursor, color table and background. 
 
